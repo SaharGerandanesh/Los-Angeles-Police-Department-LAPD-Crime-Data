@@ -1,0 +1,2 @@
+# Los-Angeles-Police-Department-LAPD-Crime-Data
+The dataset contains detailed crime information from Los Angeles, with variables such as crime date, time, area, victim's age, gender, and crime code. An Exploratory Data Analysis (EDA) was performed to identify relationships between these variables. Through the analysis, we observed patterns in the distribution of crimes across different areas and based on victim attributes like age and gender. This provided initial insights into which factors are strongly correlated with specific types of crimes.
